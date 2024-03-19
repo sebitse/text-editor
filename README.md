@@ -1,4 +1,4 @@
-### Simple Text Editor
+# Simple Text Editor
 
 SimpleText Editor is a lightweight and user-friendly text editor built using Python and Tkinter GUI toolkit.
 
